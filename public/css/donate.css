@@ -4,6 +4,7 @@
     padding: 25px;
     font-size: 24px;
     overflow: hidden;
+    color: black;
     
 }
 .topnav a{
@@ -37,16 +38,4 @@
 body{
     background-color: mediumblue;
     font-family: 'PT Sans', sans-serif;
-}
-.platforms{
-    background-color: white;
-    height: 130%;
-    width: 60%;
-    position:absolute;
-}
-.first{
-    text-decoration: underline;
-}
-.second{
-    text-decoration: underline;
 }
