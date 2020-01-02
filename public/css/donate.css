@@ -39,3 +39,9 @@ body{
     background-color: mediumblue;
     font-family: 'PT Sans', sans-serif;
 }
+#box{
+    position: relative;
+    height: 900px;
+    width: 750;
+    background-color: rgb(109, 104, 104);
+}

@@ -35,7 +35,7 @@
     font-style: italic;
 }
 body{
-    background-color: mediumblue;
+    background-color: royalblue;
     font-family: 'PT Sans', sans-serif;
 }
 .platforms{
@@ -43,6 +43,7 @@ body{
     height: 130%;
     width: 60%;
     position:absolute;
+    margin-left: 170px;
 }
 .first{
     text-decoration: underline;

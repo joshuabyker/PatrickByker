@@ -37,20 +37,27 @@
     text-shadow: 20px black;
     font-style: italic;
 }
+#container{
+    background-color: rgb(255, 255, 255);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    max-width: 90%;
+    margin-left: 63px;;
+}
 body{
-
-    background-color: mediumblue;
+background-color: royalblue;
+    
     font-family: 'PT Sans', sans-serif;
 }
 #Byker{
     background-size: cover;
     width: 70%;
+    align-content: center;
+    position: sticky;
+    left: 200px;
 }
-.containerTwo{
-    background-color: lightslategray;
-    font-size: 30px;
-    line-break: strict;
-    
+#about{
+    font-size: 16px;
 }
 #PBYKER{
     text-emphasis: bold;
@@ -58,6 +65,8 @@ body{
     text-decoration: solid;
     text-indent: 60px;
     text-shadow: 10px black;
+    position: relative;
+    left: 150px;
 }
 #button{
     background-color:black;
@@ -92,4 +101,8 @@ body{
     background-color: white;
     color: black;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#boxes{
+    background-color: rgba(155, 155, 155,);
+    background-size: contain;
 }
